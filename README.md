@@ -6,6 +6,8 @@ Setting up a lock for the entire family can be accomplished in a matter of secon
 
 For more information, please see the topic for this package at the [Home Assistant Community Forum](https://community.home-assistant.io/t/simplified-zwave-keymaster/126765).
 
+After this is installed, you will continue to manage your lock(s) via zwaveJS integration, but now you will have a user friendly Lovelace portal to manage user codes.
+
 ## Installation
 
 Please visit this project's [Wiki](https://github.com/FutureTense/keymaster/wiki) for the latest installation and update procedure.
